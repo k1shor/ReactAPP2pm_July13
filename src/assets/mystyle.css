@@ -1,0 +1,14 @@
+
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.custom-bg{
+    background-color: aquamarine;
+}
+
+.carousel{
+    height: 50vh;
+}
